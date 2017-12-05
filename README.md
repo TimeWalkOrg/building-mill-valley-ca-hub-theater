@@ -14,7 +14,7 @@ In 1920 this building was called...
 - 
 
 ## SketchUp Model
-- Made by Avery Schoen
+- Made by Catherine Foy and Amelia Sharpe
 - Model completed: December, 2017
 - Modeled in SketchUp 2017
 
