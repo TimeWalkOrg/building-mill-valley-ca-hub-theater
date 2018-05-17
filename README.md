@@ -23,6 +23,3 @@ The Throckmorton was built in 1915 (originally called the “Hub Theatre”) for
 - [Mill Valley Historical Society Vignette](https://www.mvhistory.org/vignette-142-throckmorton/)
 - [Throckmorton Theatre website](https://throckmortontheatre.org/)
 - [Mill Valley Historical Review, Spring 1984](http://www.millvalleylibrary.net/historyroom/collections/archive/files/mvhs1984spring-reduce_910d348bce.pdf)
-
-## TimeWalk Images
-![TimeWalk Unity Model](tbd)
